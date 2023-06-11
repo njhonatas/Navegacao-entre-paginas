@@ -1,2 +1,2 @@
 # Navegacao-entre-paginas
-Navengando entre páginas. Eu escolhi por deixar duas páginas na VIEW como páginas principais.
+Eu escolhi por deixar duas páginas na VIEW como páginas principais para assim fazer a navegação entre elas mesmas e entre as outras.
